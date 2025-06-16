@@ -3,5 +3,7 @@ h1 {
         text-align: center;
     }
 img{
-        position: absolute;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
     }
